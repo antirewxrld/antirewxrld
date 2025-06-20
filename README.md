@@ -17,10 +17,6 @@
 - ☁️ API-интеграции (Telegram, ЮKassa, Marzban API)
 - 🧾 Логика оплаты, маршрутизации, уведомлений
 
-**Инструменты:**
-- 📁 Git, GitHub Actions
-- ☎️ ngrok, WireGuard, iptables, GeoIP magic
-
 ---
 
 ## 📌 Активные проекты
