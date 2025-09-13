@@ -21,7 +21,8 @@
 
 ## 📌 Активные проекты
 
-- [NeuraTech VPN](https://t.me/ntechvpnbot) — Telegram-бот для безопасного доступа к сети  
+- [NeuraTech VPN](https://t.me/ntechvpnbot) — Telegram-бот для безопасного доступа к сети
+- [Holiday Bot](https://github.com/antirewxrld/holidaybot) — Telegram-бот для уведомления о праздниках
 
 ---
 
