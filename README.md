@@ -50,7 +50,7 @@
 ## ⚡ GitHub stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antirewxrld&theme=transparent&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=grifundersun&theme=transparent&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
 </div>
 
 ---
