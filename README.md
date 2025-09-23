@@ -30,7 +30,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
-![ЮKassa](https://img.shields.io/badge/ЮKassa-0055FF?logo=yoomoney&logoColor=white)
 
 ---
 
