@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-  <h2>🚀 DevOps-инженер | Автоматизирую всё живое и не очень</h2>
-  
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230px"/>
+  <h2>🚀 DevOps-инженер </h2>
   <div id="badges">
     <a href="https://t.me/saintrewxrld">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -50,6 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px"/>
   <p><i>Automate. Monitor. Deploy. Repeat.</i></p>
 </div>
