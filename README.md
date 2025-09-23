@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230px"/>
-  <h2>🚀 DevOps-инженер </h2>
+  <h2>🚀 DevOps-engineer </h2>
   <div id="badges">
     <a href="https://t.me/saintrewxrld">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -15,7 +15,7 @@
   
 </div>
 
-## 🛠️ Мой стек
+## 🛠️ My stack
 
 <div align="center">
 
@@ -33,14 +33,14 @@
 
 ---
 
-## 📌 Активные проекты
+## 📌 Current projects
 
 - 🤖 [Network BOT](https://t.me/ntechvpnbot) — Telegram-бот для безопасного доступа к сети  
 - 🎉 [Holiday Bot](https://github.com/antirewxrld/holidaybot) — Telegram-бот для уведомления о праздниках  
 
 ---
 
-## ⚡ GitHub Статистика
+## ⚡ GitHub stats
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antirewxrld&theme=transparent&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
