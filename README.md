@@ -18,18 +18,24 @@
 ## 🛠️ My stack
 
 <div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu-green?logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?logo=githubactions&logoColor=white)  
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)  
+
+![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu-green?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) 
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?logo=githubactions&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 </div>
+
 
 ---
 
